@@ -17,4 +17,21 @@
         -  ` git push -u origin master`
 
 
+#### HTML
+
++ Semantic elements
+    - `header`
+    - `aside`
+    - `section`
+    - `article`
+    - `footer`
++ inline elements
+    - `span`
+    - form elements
+    - `img`
+    - `a`
++ block level elements
+    - `div`
+    - `headings`
+    - `p`
 
